@@ -1,0 +1,7 @@
+add_word:word1:definition1
+add_word:word2:definition2
+add_word:word3:definition3
+add_synonym:word1:word2
+add_synonym:word1:word3
+look_up_word:word1
+look_up_synonyms:word1
